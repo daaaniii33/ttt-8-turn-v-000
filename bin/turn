@@ -1,7 +1,14 @@
 #!/usr/bin/env ruby
 require_relative '../lib/turn'
+<<<<<<< HEAD
+=======
+
+>>>>>>> bee6fc22ded029c3e270a4673a5a2f311461ea63
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
+<<<<<<< HEAD
 input = gets.strip
+=======
+>>>>>>> bee6fc22ded029c3e270a4673a5a2f311461ea63
